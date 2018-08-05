@@ -1,0 +1,22 @@
+Package: cctools
+Type: Package
+Title: Collaborative Cross Tools
+Version: 0.0.0.9000
+Date: 2018-08-04
+Author: Paul L. Maurizio
+Authors@R: person("Paul", "Maurizio", email = "paul.maurizio@gmail.com",
+  role = c("aut", "cre"))
+Maintainer: Paul L. Maurizio <paul.maurizio@gmail.com>
+Description: This package provides a collection of simple functions
+    that can help with management of Collaborative Cross data.
+Depends: R (>= 3.1.0)
+Imports:
+	stringr,
+	devtools,
+	miqtl,
+	gridGraphics
+License: GPL-3
+URL: http://mauriziopaul.github.io/
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
