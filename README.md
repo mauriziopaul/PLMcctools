@@ -15,7 +15,7 @@ You can install `cctools` using the following steps.
 install.packages(c('stringr', 'devtools', 'gridGraphics'))
 ```
 
-2. Install `miqtl` in R (see (miqtl on github)[https://github.com/gkeele/miqtl]):
+2. Install `miqtl` in R. See [miqtl on github](https://github.com/gkeele/miqtl):
 
 ```
 devtools::install_github("gkeele/miqtl")
