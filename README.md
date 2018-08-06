@@ -21,11 +21,11 @@ install.packages(c('stringr', 'devtools', 'gridGraphics'))
 devtools::install_github("gkeele/miqtl")
 ```
 
-3. Install `cctools`:
+3. Install `PLMcctools`:
 
 ```
-devtools::install_github("mauriziopaul/cctools")
+devtools::install_github("mauriziopaul/PLMcctools")
 ```
 
-You should then be able to load the package using `library(cctools)` in R.
+You should then be able to load the package using `library(PLMcctools)` in R.
 

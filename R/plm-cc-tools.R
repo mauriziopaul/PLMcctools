@@ -1,5 +1,5 @@
 ##---------------------------------------------------------------------------------------------------------------------
-## Title: CC Tools -- Functions for data wrangling with CC and CC-RIX related data, and other miscellanea
+## Title: PLM CC Tools -- Functions for data wrangling with CC and CC-RIX related data, and other miscellanea.
 ## Author: Paul L. Maurizio
 ## Contact: paul.maurizio@gmail.com
 ## Institution (past): University of North Carolina at Chapel Hill
@@ -8,11 +8,11 @@
 ## Date Updated: 2018-08-04
 ##---------------------------------------------------------------------------------------------------------------------
 
-#' cctools: A package for wrangling CC and CC-RIX related data.
+#' PLMcctools: A package for wrangling CC and CC-RIX related data.
 #' 
 #' @docType package
 
-#' @name cctools 
+#' @name PLMcctools 
 
 #' @import stringr
 NULL

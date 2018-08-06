@@ -1,4 +1,6 @@
 .Rbuildignore
 .Rproj.user/*
 .DS_Store
-cctools.Rproj
+*.Rproj
+.Rhistory
+.Rproj.user
