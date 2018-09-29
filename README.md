@@ -11,19 +11,19 @@ You can install `cctools` using the following steps.
 
 1. Install dependencies from CRAN in R:
 
-```
+```R
 install.packages(c('stringr', 'devtools', 'gridGraphics'))
 ```
 
 2. Install `miqtl` in R. See [miqtl on github](https://github.com/gkeele/miqtl):
 
-```
+```R
 devtools::install_github("gkeele/miqtl")
 ```
 
 3. Install `PLMcctools`:
 
-```
+```R
 devtools::install_github("mauriziopaul/PLMcctools")
 ```
 
