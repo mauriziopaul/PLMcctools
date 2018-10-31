@@ -7,7 +7,7 @@ This package has a collection of simple functions that may be used to work with 
 
 ## Installation
 
-You can install `cctools` using the following steps.
+You can install `PLMcctools` using the following steps.
 
 1. Install dependencies from CRAN in R:
 
